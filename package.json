@@ -1,0 +1,28 @@
+{
+  "name": "gereji-oauth",
+  "version": "0.0.1",
+  "description": "Oauth adapter for the gereji web application framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnjuguna/gereji-oauth.git"
+  },
+  "keywords": [
+    "oauth",
+    "facebook",
+    "twitter",
+    "linkedin",
+    "gereji",
+    "security",
+    "rest"
+  ],
+  "author": "David Njuguna <dnjuguna@gmail.com> (https://github.com/dnjuguna)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dnjuguna/gereji-oauth/issues"
+  },
+  "homepage": "https://github.com/dnjuguna/gereji-oauth"
+}
